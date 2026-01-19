@@ -12,7 +12,7 @@
 # FontForge Configuration Files
 
 ```
-main .
+fontforge-configuration .
 -    ├── .config
 -    │   └── fontforge
 -    │       └── hotkeys
